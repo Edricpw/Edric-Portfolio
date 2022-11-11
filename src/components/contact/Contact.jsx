@@ -24,7 +24,7 @@
             <AiOutlineLinkedin className='contact__option-icon'/>
             <h4>Linkedin</h4>
             <h5>Edric Pratama Widjaja</h5>
-            <a href='www.linkedin.com/IN/edricpratamaw'>Send a Message</a>
+            <a href='https://youtube.com'>Send a Message</a>
           </article>
 
           <article className='contact__option'>
