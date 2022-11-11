@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Edric-Portfolio/static/css/main.479938d7.css",
+    "main.css": "/Edric-Portfolio/static/css/main.3e830a7d.css",
     "main.js": "/Edric-Portfolio/static/js/main.7a8400cb.js",
     "static/media/cv_edric.pdf": "/Edric-Portfolio/static/media/cv_edric.6d093d00eb20ea628e72.pdf",
     "static/media/portofolio5.png": "/Edric-Portfolio/static/media/portofolio5.ac9f76c4c35efa9c2b31.png",
@@ -13,11 +13,11 @@
     "static/media/portofolio1.png": "/Edric-Portfolio/static/media/portofolio1.63e5a19ad6e7c3469885.png",
     "static/media/portofolio2.png": "/Edric-Portfolio/static/media/portofolio2.4e9fde3db8f0bf5328cc.png",
     "index.html": "/Edric-Portfolio/index.html",
-    "main.479938d7.css.map": "/Edric-Portfolio/static/css/main.479938d7.css.map",
+    "main.3e830a7d.css.map": "/Edric-Portfolio/static/css/main.3e830a7d.css.map",
     "main.7a8400cb.js.map": "/Edric-Portfolio/static/js/main.7a8400cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.479938d7.css",
+    "static/css/main.3e830a7d.css",
     "static/js/main.7a8400cb.js"
   ]
 }
