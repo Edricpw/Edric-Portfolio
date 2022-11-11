@@ -20,7 +20,7 @@ function footer() {
             <div className='footer__socials'>
                 <a href='https://www.linkedin.com/in/edricpratamaw'><AiFillLinkedin/></a>
                 <a href='https://wa.me/6281355161002' targets="_blank"><BsWhatsapp/></a>
-                <a href='https://github.com'><AiFillGithub/></a>
+                <a href='https://github.com/Edricpw'><AiFillGithub/></a>
 
             
             </div>
