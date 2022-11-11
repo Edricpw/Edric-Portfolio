@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Edric-Portfolio/static/css/main.479938d7.css",
+    "main.js": "/Edric-Portfolio/static/js/main.38529157.js",
+    "static/media/cv_edric.pdf": "/Edric-Portfolio/static/media/cv_edric.6d093d00eb20ea628e72.pdf",
+    "static/media/portofolio5.png": "/Edric-Portfolio/static/media/portofolio5.ac9f76c4c35efa9c2b31.png",
+    "static/media/portofolio4.png": "/Edric-Portfolio/static/media/portofolio4.16eb937bf0ecbafb5d85.png",
+    "static/media/Paper RM.pdf": "/Edric-Portfolio/static/media/Paper RM.852201b7acad6c0686e4.pdf",
+    "static/media/portofolio3.png": "/Edric-Portfolio/static/media/portofolio3.8033572fbe3e3acc14fe.png",
+    "static/media/linked in.jpg": "/Edric-Portfolio/static/media/linked in.2a8b670260f7b56dcb30.jpg",
+    "static/media/portofolio6.png": "/Edric-Portfolio/static/media/portofolio6.74e81c821b2af4b86c35.png",
+    "static/media/Ed .png": "/Edric-Portfolio/static/media/Ed .098fc0558083ea91ad6f.png",
+    "static/media/portofolio1.png": "/Edric-Portfolio/static/media/portofolio1.63e5a19ad6e7c3469885.png",
+    "static/media/portofolio2.png": "/Edric-Portfolio/static/media/portofolio2.4e9fde3db8f0bf5328cc.png",
+    "index.html": "/Edric-Portfolio/index.html",
+    "main.479938d7.css.map": "/Edric-Portfolio/static/css/main.479938d7.css.map",
+    "main.38529157.js.map": "/Edric-Portfolio/static/js/main.38529157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.479938d7.css",
+    "static/js/main.38529157.js"
+  ]
+}
